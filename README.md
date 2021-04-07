@@ -1,5 +1,7 @@
 # docker-telegram-bot-send.sh
 
+Deprecated, please use [sstc/notify](https://hub.docker.com/r/sstc/notify) instead.
+
 ## Usage
 
 ```sh
